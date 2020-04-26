@@ -1,2 +1,7 @@
 # Compiled stuff
 *.vhv
+*.bsp
+*.vmf
+*.nav
+*.vtf
+sound.cache
